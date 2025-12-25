@@ -27,3 +27,7 @@ This repository contains two projects I worked on during my internship at Max Pl
 ## References
 - [SparkFun HX711 Hookup Guide](https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-guide/all)
 - [HX711 Arduino Library](https://github.com/bogde/HX711)
+
+## CAD Projects
+- Tube design in Onshape
+  - Exported as STEP file
