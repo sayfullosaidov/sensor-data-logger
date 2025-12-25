@@ -24,9 +24,6 @@ This repository contains two projects I worked on during my internship at Max Pl
 ## Python Notebooks
 - `buoyancy_model.ipynb` → calculates helium volume required for altitude targets
 
-## Screenshots
-![Plot Example](screenshots/plot.png)
-
 ## References
 - [SparkFun HX711 Hookup Guide](https://learn.sparkfun.com/tutorials/load-cell-amplifier-hx711-breakout-hookup-guide/all)
 - [HX711 Arduino Library](https://github.com/bogde/HX711)
